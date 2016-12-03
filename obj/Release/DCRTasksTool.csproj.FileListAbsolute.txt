@@ -1,0 +1,10 @@
+D:\Projects\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.exe.config
+D:\Projects\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.exe
+D:\Projects\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.pdb
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Choice.resources
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Login.resources
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Properties.Resources.resources
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.TaskList.resources
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.csproj.GenerateResource.Cache
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.exe
+D:\Projects\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.pdb
