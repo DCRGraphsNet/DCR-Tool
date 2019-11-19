@@ -8,3 +8,15 @@ D:\Projects\DCRTasksTool\DCRTasksTool\obj\Debug\DCRTasksTool.pdb
 D:\Projects\DCRTasksTool\DCRTasksTool\obj\Debug\DCRTasksTool.Login.resources
 D:\Projects\DCRTasksTool\DCRTasksTool\obj\Debug\DCRTasksTool.Choice.resources
 D:\Projects\DCRTasksTool\DCRTasksTool\obj\Debug\DCRTasksTool.TaskList.resources
+C:\Users\haako\Documents\GitHub\DCR-Tool\bin\Debug\DCRTasksTool.exe.config
+C:\Users\haako\Documents\GitHub\DCR-Tool\bin\Debug\DCRTasksTool.exe
+C:\Users\haako\Documents\GitHub\DCR-Tool\bin\Debug\DCRTasksTool.pdb
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.csprojAssemblyReference.cache
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.Choice.resources
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.Login.resources
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.Properties.Resources.resources
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.TaskList.resources
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.csproj.GenerateResource.cache
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.csproj.CoreCompileInputs.cache
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.exe
+C:\Users\haako\Documents\GitHub\DCR-Tool\obj\Debug\DCRTasksTool.pdb

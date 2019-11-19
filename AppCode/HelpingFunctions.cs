@@ -29,7 +29,7 @@ namespace DCRTasksTool.AppCode
         public static XmlDocument GetEventsXmlDocumentFromString(string evXML)
         {
             XmlDocument eventXML = new XmlDocument();
-            evXML = evXML.Replace("\\r\\n", "").Replace("\\\"", "\"").Replace("\"<events>", "<events>").Replace("</events>\"", "</events>");
+            evXML = evXML.Replace("\\r\\n", "").Replace("\\\"", "\"").Replace("\"<events", "<events").Replace("</events>\"", "</events>");
             eventXML.LoadXml(evXML);
             return eventXML;
         }
