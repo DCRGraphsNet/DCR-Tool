@@ -1,0 +1,15 @@
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.exe.config
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.exe.manifest
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.application
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.exe
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\bin\Release\DCRTasksTool.pdb
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Choice.resources
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Login.resources
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.Properties.Resources.resources
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.TaskList.resources
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.csproj.GenerateResource.cache
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.csproj.CoreCompileInputs.cache
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.exe.manifest
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.application
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.exe
+D:\Projects\TEO\DCR\DCRTasksTool\DCRTasksTool\DCRTasksTool\obj\Release\DCRTasksTool.pdb
